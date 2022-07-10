@@ -1,0 +1,2 @@
+# AirConditionRemoteController
+基于OHOS开发板waffle nano实现的环境温度检测和远程空调控制原型
